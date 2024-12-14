@@ -22,7 +22,7 @@
     { "source": "/privacy-policy", "destination": "/privacy-policy.html" },
 
     {
-      "source": "/term-and-conditions",
+      "source": "/terms-and-condition",
       "destination": "/terms-and-condition.html"
     },
     {
