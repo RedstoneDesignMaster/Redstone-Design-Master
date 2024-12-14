@@ -1,0 +1,49 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/portfolio", "destination": "/portfolio.html" },
+    {
+      "source": "/website-development-services",
+      "destination": "/website-development-services.html"
+    },
+
+    { "source": "/contact-us", "destination": "/contact-us.html" },
+    {
+      "source": "/digital-marketing",
+      "destination": "/digital-marketing.html"
+    },
+
+    { "source": "/website-hosting", "destination": "/website-hosting.html" },
+    {
+      "source": "/social-media-marketing",
+      "destination": "/social-media-marketing.html"
+    },
+    { "source": "/packages", "destination": "/packages.html" },
+    { "source": "/privacy-policy", "destination": "/privacy-policy.html" },
+
+    {
+      "source": "/term-and-conditions",
+      "destination": "/terms-and-conditions.html"
+    },
+    {
+      "source": "/ssl",
+      "destination": "/ssl.html"
+    },
+    {
+      "source": "/search-engin-optimization",
+      "destination": "/search-engin-optimization.html"
+    },
+    {
+      "source": "/domain-hosting",
+      "destination": "/domain-hosting.html"
+    },
+    {
+      "source": "/free-domain",
+      "destination": "free-domain.html"
+    },
+    {
+      "source": "email-marketing",
+      "destination": "email-marketing.html"
+    }
+  ]
+}
